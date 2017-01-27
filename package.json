@@ -1,0 +1,22 @@
+{
+  "name": "simple_convert_server",
+  "version": "1.0.0",
+  "description": "node js server for simple convert",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyang8954/simpleConvertServer.git"
+  },
+  "keywords": [
+    "simple"
+  ],
+  "author": "Chris Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyang8954/simpleConvertServer/issues"
+  },
+  "homepage": "https://github.com/cyang8954/simpleConvertServer#readme"
+}
